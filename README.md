@@ -16,3 +16,8 @@ Game basic inspired by Roblox.
 
 ## Engine
 Made with [Godot Engine](https://godotengine.org/) 4.0
+
+## Images
+![Screenshot](https://raw.githubusercontent.com/cobyzero/sandbox-game/refs/heads/main/images/image.png)
+
+![Screenshot](https://raw.githubusercontent.com/cobyzero/sandbox-game/refs/heads/main/images/image%20copy.png)
