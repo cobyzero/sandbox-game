@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edyne\\OneDrive\\Documentos\\GitHub\\sandbox-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EEC0D8-858D-4642-A0EF-6BBF5D4F21C1}|Sandbox Game.csproj|c:\\users\\edyne\\onedrive\\documentos\\github\\sandbox-game\\scripts\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EEC0D8-858D-4642-A0EF-6BBF5D4F21C1}|Sandbox Game.csproj|solutionrelative:scripts\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\edyne\\OneDrive\\Documentos\\GitHub\\sandbox-game\\scripts\\Block.cs",
+              "RelativeDocumentMoniker": "scripts\\Block.cs",
+              "ToolTip": "C:\\Users\\edyne\\OneDrive\\Documentos\\GitHub\\sandbox-game\\scripts\\Block.cs",
+              "RelativeToolTip": "scripts\\Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:06:30.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
